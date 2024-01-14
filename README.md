@@ -1,3 +1,4 @@
+
 # Wikipedia Article Classification Project
 
 This project aims to classify Wikipedia articles into medical and non-medical categories using Natural Language Processing (NLP) techniques. The classification is performed based on the textual content of the articles.
@@ -53,3 +54,6 @@ To run the project, follow these steps:
     python main.py
     ```
 
+
+# NLP---Assignment2
+>>>>>>> 541b2a423b967f87ced6ab47f9390d1b96299464
