@@ -53,7 +53,3 @@ To run the project, follow these steps:
     ```bash
     python main.py
     ```
-
-
-# NLP---Assignment2
->>>>>>> 541b2a423b967f87ced6ab47f9390d1b96299464
